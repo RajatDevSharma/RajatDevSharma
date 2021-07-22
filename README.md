@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajatDevSharma
-- 👀 I’m interested in buidling things with python.
+- 👀 I’m interested in building things with python.
 - 🌱 I’m currently learning about MLOps and Cryptocurrencies :)
 - 📫 You can reach out to me via rajatdevshara@gmail.com
 
