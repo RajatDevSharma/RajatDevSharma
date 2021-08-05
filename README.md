@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajatDevSharma
 - 👀 I’m interested in building things with python.
 - 🌱 I’m currently learning AWS, MLOps and Blockchain.
-- 📫 You can reach out to me via rajatdevshara@gmail.com
+- 📫 You can reach out to me via rajatdevsharma@gmail.com
 
 <!---
 RajatDevSharma/RajatDevSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
