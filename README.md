@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajatDevSharma
 - 👀 I’m interested in building things with python.
-- 🌱 I’m currently learning AWS and Blockchain.
+- 🌱 I’m currently learning Data Engineering and AWS.
 - 📫 You can reach out to me via rajatdevsharma@gmail.com
 
 <!---
