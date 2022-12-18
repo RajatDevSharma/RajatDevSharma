@@ -40,4 +40,5 @@ Projects I lead (and developed) in a small team:
 - Grafana and Promethues
 
 **CONTACT**:
+
 You can reach out to me via rajatdevsharma@gmail.com or @rajatblog (Twitter)
