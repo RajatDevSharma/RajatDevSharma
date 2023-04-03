@@ -4,13 +4,9 @@ Software Engineer with 5 years of experience in Backend Engineering, Data Engine
 
 **WORK EXPERIENCE**:
 
-*GGWP (Jul 2022- Current)*
+*GGWP (Jul 2022- Current)*: Software Engineer
 
-Software Engineer
-
-*BlueOptima (Jan 2018- Jul 2021)*
-
-Software Engineer
+*BlueOptima (Jan 2018- Jul 2021)*: Software Engineer
 
 
 **SKILLS**:
